@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mnjoylyn
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi,Joylyn Munyasia is an experienced data scientist with a proven track record of leveraging advanced analytical techniques to extract meaningful insights from complex datasets. I am proficient in using machine learning algorithms, statistical analysis, and data visualization to drive data-driven decision-making. I am adept at transforming raw data into actionable recommendations that enhance business processes and drive growth.
+- I have Strong programming skills in Python and R, coupled with solid communication abilities to convey technical findings to both technical and non￾technical stakeholders. Skilled in developing predictive models, optimizing algorithms, and conducting A/B testing to validate hypotheses. 
+- 💞️ I’m looking to collaborate on data science projects. I am collaborative team player who thrives in interdisciplinary environments, dedicated to continuous learning and staying 
+updated with the latest advancements in data science and AI.
 - 📫 How to reach me Email. njoymunyasia@gmail.com
 
 <!---
